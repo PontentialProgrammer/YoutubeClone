@@ -1,0 +1,46 @@
+.navbar-brand{
+    font-family: Roboto, Arial, sans-serif;
+}    
+.navbar{
+    display: flex;
+    justify-content:flex-start;
+    /* border-width: 0.1px; */
+}
+
+.fixed-top-2 {
+    margin-top: 56px;
+}
+.navbar-2{
+    /* white-space: nowrap;
+    overflow-x: scroll; 
+    -webkit-overflow-scrolling: touch; */
+}
+.navbar-1{
+    border-bottom: 1px solid #747171;
+}
+
+body {
+    padding-top: 120px;
+}
+.btn-1{
+    border-radius: 70px;
+    background-color: #343a40;
+}
+.card-div{
+    margin:2px;
+}
+.card-body{
+    border: none;
+}
+.card{
+    /* border-width: 1px; */
+    margin:5px;
+}
+.btn{
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.form-control{
+    width: 300px;
+}
